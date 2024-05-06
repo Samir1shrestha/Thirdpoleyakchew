@@ -2666,7 +2666,7 @@ textarea.form-input {
   }
   .site-header.sticky_head,
   .site-header {
-    background: rgb(255 255 255 / 90%);
+/*     background: rgb(255 255 255 / 90%); */
   }
   .h1-title {
     font-size: 60px;
